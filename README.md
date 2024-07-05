@@ -1,5 +1,6 @@
 ##                                 Hi, I'm Chandani Thumar👋
-                             Data Analyst at MTA New York City Transit
+
+Data Analyst at MTA New York City Transit
 
 😄 Pronouns: she/her
 
