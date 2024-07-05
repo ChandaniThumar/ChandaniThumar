@@ -1,6 +1,5 @@
 ##                                 Hi, I'm Chandani Thumar👋
 
-                        #    Data Analyst at MTA New York City Transit
 
 😄 Pronouns: she/her
 
@@ -15,11 +14,18 @@
 ⚡ Fun fact: I am an artist who loves painting, sketching, and doing Henna for others.
 
 **Connect with me:**
+
 Email : cthumar24@gmail.com
+
 Linkedln : Chandani Thumar (https://www.linkedin.com/in/chandani-thumar-518b14214/)
 
 **Languages and Tools:**
+
 Programming Languages : Python, R, Machine Learning, JavaScript, C/C++. 
+
 Database/Server: PostgreSQL, MySQL, NoSQL, Oracle, Hadoop, Neo4j, HBase, Cassandra, Microsoft Access, Apache Spark.
+
 Software/Tools : Power BI, Power App, Tableau, Docker, MS Excel, RStudio, Power automate, Jira.
+
 ML Algorithms : Linear & Logistic Regression, FB Prophet, Random Forest, KNN, DT, Naive Bayes, XGBoost, SVM.
+
