@@ -1,5 +1,6 @@
-##                                 Hi, I'm Chandani Thumar👋
+### Hi, I'm Chandani Thumar👋
 
+## About me
 
 😄 Pronouns: she/her
 
@@ -13,13 +14,7 @@
 
 ⚡ Fun fact: I am an artist who loves painting, sketching, and doing Henna for others.
 
-**Connect with me:**
-
-Email : cthumar24@gmail.com
-
-Linkedln : Chandani Thumar (https://www.linkedin.com/in/chandani-thumar-518b14214/)
-
-**Languages and Tools:**
+## Technical Skills
 
 Programming Languages : Python, R, Machine Learning, JavaScript, C/C++. 
 
@@ -27,4 +22,14 @@ Database/Server: PostgreSQL, MySQL, NoSQL, Oracle, Hadoop, Neo4j, HBase, Cassand
 
 Software/Tools : Power BI, Power App, Tableau, Docker, MS Excel, RStudio, Power automate, Jira.
 
-ML Algorithms : Linear & Logistic Regression, FB Prophet, Random Forest, KNN, DT, Naive Bayes, XGBoost, SVM.
+Machine Learning Algorithms : Linear Regression, Logistic Regression, FB Prophet, Random Forest, K-Nearest Neighbour, Decision Tree, Naive Bayes, XGBoost, Support Vector Machine, Clustering, Gradient Boosting, Neural Network.
+
+## Contact me
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="" alt="android" width="40" height="40"/> </a></p>
+
+
+Email : cthumar24@gmail.com
+
+Linkedln : Chandani Thumar (https://www.linkedin.com/in/chandani-thumar-518b14214/)
+
+
